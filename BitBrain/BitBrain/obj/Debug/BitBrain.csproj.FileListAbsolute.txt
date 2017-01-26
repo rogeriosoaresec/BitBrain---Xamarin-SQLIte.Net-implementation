@@ -1,0 +1,76 @@
+C:\Users\rogerio.ferreira\Desktop\files\BitBrain\BitBrain\BitBrain\bin\Debug\BitBrain.dll.config
+C:\Users\rogerio.ferreira\Desktop\files\BitBrain\BitBrain\BitBrain\bin\Debug\BitBrain.dll
+C:\Users\rogerio.ferreira\Desktop\files\BitBrain\BitBrain\BitBrain\bin\Debug\BitBrain.pdb
+C:\Users\rogerio.ferreira\Desktop\files\BitBrain\BitBrain\BitBrain\bin\Debug\Acr.UserDialogs.dll
+C:\Users\rogerio.ferreira\Desktop\files\BitBrain\BitBrain\BitBrain\bin\Debug\Acr.UserDialogs.Interface.dll
+C:\Users\rogerio.ferreira\Desktop\files\BitBrain\BitBrain\BitBrain\bin\Debug\ExifLib.dll
+C:\Users\rogerio.ferreira\Desktop\files\BitBrain\BitBrain\BitBrain\bin\Debug\Newtonsoft.Json.dll
+C:\Users\rogerio.ferreira\Desktop\files\BitBrain\BitBrain\BitBrain\bin\Debug\Rg.Plugins.Popup.dll
+C:\Users\rogerio.ferreira\Desktop\files\BitBrain\BitBrain\BitBrain\bin\Debug\Rg.Plugins.Popup.Platform.dll
+C:\Users\rogerio.ferreira\Desktop\files\BitBrain\BitBrain\BitBrain\bin\Debug\Splat.dll
+C:\Users\rogerio.ferreira\Desktop\files\BitBrain\BitBrain\BitBrain\bin\Debug\System.Net.Http.dll
+C:\Users\rogerio.ferreira\Desktop\files\BitBrain\BitBrain\BitBrain\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\rogerio.ferreira\Desktop\files\BitBrain\BitBrain\BitBrain\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\rogerio.ferreira\Desktop\files\BitBrain\BitBrain\BitBrain\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\rogerio.ferreira\Desktop\files\BitBrain\BitBrain\BitBrain\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\rogerio.ferreira\Desktop\files\BitBrain\BitBrain\BitBrain\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\rogerio.ferreira\Desktop\files\BitBrain\BitBrain\BitBrain\bin\Debug\Acr.UserDialogs.Interface.pdb
+C:\Users\rogerio.ferreira\Desktop\files\BitBrain\BitBrain\BitBrain\bin\Debug\Newtonsoft.Json.xml
+C:\Users\rogerio.ferreira\Desktop\files\BitBrain\BitBrain\BitBrain\bin\Debug\System.Net.Http.xml
+C:\Users\rogerio.ferreira\Desktop\files\BitBrain\BitBrain\BitBrain\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\rogerio.ferreira\Desktop\files\BitBrain\BitBrain\BitBrain\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\rogerio.ferreira\Desktop\files\BitBrain\BitBrain\BitBrain\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\rogerio.ferreira\Desktop\files\BitBrain\BitBrain\BitBrain\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\rogerio.ferreira\Desktop\files\BitBrain\BitBrain\BitBrain\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\rogerio.ferreira\Desktop\files\BitBrain\BitBrain\BitBrain\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\rogerio.ferreira\Desktop\files\BitBrain\BitBrain\BitBrain\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\rogerio.ferreira\Desktop\files\BitBrain\BitBrain\BitBrain\obj\Debug\BitBrain.csproj.App.config
+C:\Users\rogerio.ferreira\Desktop\files\BitBrain\BitBrain\BitBrain\obj\Debug\BitBrain.TesteToastPage.xaml.g.cs
+C:\Users\rogerio.ferreira\Desktop\files\BitBrain\BitBrain\BitBrain\obj\Debug\BitBrain.Views.Popup1Page.xaml.g.cs
+C:\Users\rogerio.ferreira\Desktop\files\BitBrain\BitBrain\BitBrain\obj\Debug\BitBrain.Views.PopupSuccessPage.xaml.g.cs
+C:\Users\rogerio.ferreira\Desktop\files\BitBrain\BitBrain\BitBrain\obj\Debug\BitBrain.dll
+C:\Users\rogerio.ferreira\Desktop\files\BitBrain\BitBrain\BitBrain\obj\Debug\BitBrain.pdb
+C:\Users\rogerio.ferreira\Desktop\files\BitBrain\BitBrain\BitBrain\bin\Debug\SQLite.Net.Async.dll
+C:\Users\rogerio.ferreira\Desktop\files\BitBrain\BitBrain\BitBrain\bin\Debug\SQLite.Net.dll
+C:\Users\rogerio.ferreira\Desktop\files\BitBrain\BitBrain\BitBrain\bin\Debug\SQLiteNetExtensions.dll
+C:\Users\rogerio.ferreira\Desktop\files\BitBrain\BitBrain\BitBrain\bin\Debug\SQLiteNetExtensionsAsync.dll
+C:\Users\rogerio.ferreira\Desktop\files\BitBrain\BitBrain\BitBrain\obj\Debug\BitBrain.csprojResolveAssemblyReference.cache
+C:\Users\rogerio.ferreira\Desktop\files\BitBrain\BitBrain\BitBrain\obj\Debug\BitBrain.dll.mdb
+C:\Users\rogerio.ferreira\Desktop\files\BitBrain\BitBrain\BitBrain\bin\Debug\BitBrain.dll.mdb
+C:\Users\rogerio.ferreira\Desktop\files\BitBrain - SQLIte.Net implementation\BitBrain\BitBrain\bin\Debug\BitBrain.dll.config
+C:\Users\rogerio.ferreira\Desktop\files\BitBrain - SQLIte.Net implementation\BitBrain\BitBrain\bin\Debug\BitBrain.dll
+C:\Users\rogerio.ferreira\Desktop\files\BitBrain - SQLIte.Net implementation\BitBrain\BitBrain\bin\Debug\BitBrain.pdb
+C:\Users\rogerio.ferreira\Desktop\files\BitBrain - SQLIte.Net implementation\BitBrain\BitBrain\bin\Debug\Acr.UserDialogs.dll
+C:\Users\rogerio.ferreira\Desktop\files\BitBrain - SQLIte.Net implementation\BitBrain\BitBrain\bin\Debug\Acr.UserDialogs.Interface.dll
+C:\Users\rogerio.ferreira\Desktop\files\BitBrain - SQLIte.Net implementation\BitBrain\BitBrain\bin\Debug\ExifLib.dll
+C:\Users\rogerio.ferreira\Desktop\files\BitBrain - SQLIte.Net implementation\BitBrain\BitBrain\bin\Debug\Newtonsoft.Json.dll
+C:\Users\rogerio.ferreira\Desktop\files\BitBrain - SQLIte.Net implementation\BitBrain\BitBrain\bin\Debug\Rg.Plugins.Popup.dll
+C:\Users\rogerio.ferreira\Desktop\files\BitBrain - SQLIte.Net implementation\BitBrain\BitBrain\bin\Debug\Rg.Plugins.Popup.Platform.dll
+C:\Users\rogerio.ferreira\Desktop\files\BitBrain - SQLIte.Net implementation\BitBrain\BitBrain\bin\Debug\Splat.dll
+C:\Users\rogerio.ferreira\Desktop\files\BitBrain - SQLIte.Net implementation\BitBrain\BitBrain\bin\Debug\SQLite.Net.Async.dll
+C:\Users\rogerio.ferreira\Desktop\files\BitBrain - SQLIte.Net implementation\BitBrain\BitBrain\bin\Debug\SQLite.Net.dll
+C:\Users\rogerio.ferreira\Desktop\files\BitBrain - SQLIte.Net implementation\BitBrain\BitBrain\bin\Debug\SQLiteNetExtensions.dll
+C:\Users\rogerio.ferreira\Desktop\files\BitBrain - SQLIte.Net implementation\BitBrain\BitBrain\bin\Debug\SQLiteNetExtensionsAsync.dll
+C:\Users\rogerio.ferreira\Desktop\files\BitBrain - SQLIte.Net implementation\BitBrain\BitBrain\bin\Debug\System.Net.Http.dll
+C:\Users\rogerio.ferreira\Desktop\files\BitBrain - SQLIte.Net implementation\BitBrain\BitBrain\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\rogerio.ferreira\Desktop\files\BitBrain - SQLIte.Net implementation\BitBrain\BitBrain\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\rogerio.ferreira\Desktop\files\BitBrain - SQLIte.Net implementation\BitBrain\BitBrain\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\rogerio.ferreira\Desktop\files\BitBrain - SQLIte.Net implementation\BitBrain\BitBrain\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\rogerio.ferreira\Desktop\files\BitBrain - SQLIte.Net implementation\BitBrain\BitBrain\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\rogerio.ferreira\Desktop\files\BitBrain - SQLIte.Net implementation\BitBrain\BitBrain\bin\Debug\Acr.UserDialogs.Interface.pdb
+C:\Users\rogerio.ferreira\Desktop\files\BitBrain - SQLIte.Net implementation\BitBrain\BitBrain\bin\Debug\Newtonsoft.Json.xml
+C:\Users\rogerio.ferreira\Desktop\files\BitBrain - SQLIte.Net implementation\BitBrain\BitBrain\bin\Debug\System.Net.Http.xml
+C:\Users\rogerio.ferreira\Desktop\files\BitBrain - SQLIte.Net implementation\BitBrain\BitBrain\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\rogerio.ferreira\Desktop\files\BitBrain - SQLIte.Net implementation\BitBrain\BitBrain\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\rogerio.ferreira\Desktop\files\BitBrain - SQLIte.Net implementation\BitBrain\BitBrain\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\rogerio.ferreira\Desktop\files\BitBrain - SQLIte.Net implementation\BitBrain\BitBrain\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\rogerio.ferreira\Desktop\files\BitBrain - SQLIte.Net implementation\BitBrain\BitBrain\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\rogerio.ferreira\Desktop\files\BitBrain - SQLIte.Net implementation\BitBrain\BitBrain\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\rogerio.ferreira\Desktop\files\BitBrain - SQLIte.Net implementation\BitBrain\BitBrain\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\rogerio.ferreira\Desktop\files\BitBrain - SQLIte.Net implementation\BitBrain\BitBrain\obj\Debug\BitBrain.csproj.App.config
+C:\Users\rogerio.ferreira\Desktop\files\BitBrain - SQLIte.Net implementation\BitBrain\BitBrain\obj\Debug\BitBrain.csprojResolveAssemblyReference.cache
+C:\Users\rogerio.ferreira\Desktop\files\BitBrain - SQLIte.Net implementation\BitBrain\BitBrain\obj\Debug\BitBrain.Views.HomePage.xaml.g.cs
+C:\Users\rogerio.ferreira\Desktop\files\BitBrain - SQLIte.Net implementation\BitBrain\BitBrain\obj\Debug\BitBrain.dll
+C:\Users\rogerio.ferreira\Desktop\files\BitBrain - SQLIte.Net implementation\BitBrain\BitBrain\obj\Debug\BitBrain.pdb
+C:\Users\rogerio.ferreira\Desktop\files\BitBrain - SQLIte.Net implementation\BitBrain\BitBrain\obj\Debug\BitBrain.dll.mdb
+C:\Users\rogerio.ferreira\Desktop\files\BitBrain - SQLIte.Net implementation\BitBrain\BitBrain\bin\Debug\BitBrain.dll.mdb
