@@ -1,0 +1,2 @@
+C:\Users\rogerio.ferreira\Desktop\files\BitBrain\BitBrain\BitBrain.WinPhone\BitBrain.WinPhone.csproj;x86
+C:\Users\rogerio.ferreira\Desktop\files\BitBrain\BitBrain\BitBrain\BitBrain.csproj;neutral

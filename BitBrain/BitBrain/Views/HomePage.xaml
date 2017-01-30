@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="BitBrain.Views.HomePage">
+  
+  <StackLayout Padding="0" Orientation="Vertical">
+    <ListView  x:Name="ListPersonUsers" HasUnevenRows="True">
+      <ListView.ItemTemplate>
+        <DataTemplate>
+          <ViewCell>
+            <StackLayout HorizontalOptions="FillAndExpand" Padding="20, 10, 0, 0">
+              <Grid>
+                <Grid.RowDefinitions>
+                  <RowDefinition Height="1*" />
+                  <RowDefinition Height="1*" />
+                </Grid.RowDefinitions>
+
+                <Label FontSize="14" Text="{Binding Person.PersonName}" FontAttributes="Bold" Grid.Row="0" />
+                <Label FontSize="12" Text="{Binding User.UserName}" Grid.Row="1"/>
+              </Grid>
+              <Image Source="arrowright" HorizontalOptions="End" VerticalOptions="Center"/>
+            </StackLayout>
+          </ViewCell>
+        </DataTemplate>
+      </ListView.ItemTemplate>
+    </ListView>
+  </StackLayout>
+</ContentPage>
