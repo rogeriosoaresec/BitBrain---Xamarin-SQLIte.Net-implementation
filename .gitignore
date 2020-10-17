@@ -48,5 +48,10 @@ Temporary Items
 
 .vs
 packages
+BitBrain/BitBrain/bin
+BitBrain/BitBrain/obj
+
+BitBrain/BitBrain.*/bin
+BitBrain/BitBrain.*/obj
 
 .gitattributes
